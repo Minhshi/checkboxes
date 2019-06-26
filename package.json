@@ -1,0 +1,11 @@
+{
+  "name": "checkboxes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Minh Pham <mpham@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "node-sass": "^4.12.0"
+  }
+}
